@@ -1,0 +1,28 @@
+Tamam! İşte resmi, uzun ve akıcı KVKK metni, madde madde değil, sadece e-posta ile iletişim bilgisi içeriyor ve siteye direkt koyabileceğin hâlde:
+
+⸻
+
+Gizlilik Politikası – Burdur Veteriner Kliniği
+
+Burdur Veteriner Kliniği (“Klinik”, “biz” veya “bizim”) olarak, web sitemizi ziyaret eden kullanıcıların kişisel verilerinin gizliliğini ve güvenliğini korumak birincil önceliğimizdir. Bu Gizlilik Politikası, 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında, kişisel verilerinizin toplanması, işlenmesi, saklanması ve korunmasıyla ilgili uygulamalarımızı açıklamakta ve kullanıcılarımızın hakları hakkında bilgi vermeyi amaçlamaktadır.
+
+Web sitemizi ziyaret ettiğinizde veya doğrudan klinik hizmetlerimizden faydalandığınızda, adınız, soyadınız, e-posta adresiniz ve ilettiğiniz mesajlar veya randevu talepleri gibi kişisel verileriniz toplanabilir. Bu veriler, yalnızca klinik hizmetlerinin yürütülmesi, randevu taleplerinizin yönetimi, sağlık bilgilendirmelerinin iletilmesi ve yasal yükümlülüklerimizin yerine getirilmesi amacıyla işlenmektedir. Toplanan veriler, KVKK ve ilgili diğer mevzuata uygun olarak saklanmakta ve izniniz olmadan üçüncü kişilerle paylaşılmamaktadır. Bununla birlikte, kanunlar çerçevesinde yetkili resmi merciler veya klinik hizmetlerinin yürütülmesi amacıyla sözleşmeli tedarikçiler ile paylaşım yapılabilmektedir.
+
+Kişisel verileriniz, yasal saklama süreleri boyunca güvenli bir şekilde muhafaza edilir ve sürenin sonunda ya silinir ya da anonim hale getirilir. KVKK kapsamında veri sahipleri olarak sizler, kişisel verilerinize erişme, verilerinizin düzeltilmesini veya silinmesini talep etme, verilerinizin işlenmesine itiraz etme ve verilerinizin üçüncü kişilerle paylaşımını sınırlama haklarına sahipsiniz. Bu haklarınızı kullanmak için bizimle e-posta yoluyla iletişime geçebilirsiniz: info@klinikadi.com.
+
+Web sitemiz, kullanıcı deneyimini iyileştirmek amacıyla çerezler ve benzeri teknolojiler kullanabilir. Bu çerezler, kullanıcılarımızın izni alınmadan kişisel veri amaçlı kullanılmamaktadır ve yalnızca site kullanımını optimize etmek amacıyla kullanılmaktadır.
+
+Bu Gizlilik Politikası, mevzuat değişiklikleri veya hizmetlerimizdeki güncellemeler doğrultusunda revize edilebilir. Güncellenmiş politika, web sitemizde yayınlandığı tarih itibarıyla yürürlüğe girer ve kullanıcılar tarafından tekrar onaylanması gerekmez.
+
+Burdur Veteriner Kliniği olarak kişisel verilerinizin korunmasına azami özeni göstermekteyiz ve bu konudaki haklarınızı her zaman korumaktayız. KVKK ile ilgili detaylı bilgiye Resmi KVKK Web Sitesi üzerinden ulaşabilirsiniz.
+
+İletişim Bilgileri:
+Burdur Veteriner Kliniği
+E-posta: info@klinikadi.com
+Web sitesi: [www.klinikadi.com]
+
+⸻
+
+İstersen bunu bir sonraki adımda statik siteye direkt kopyalanabilecek HTML hâline çevirebilirim; başlık, paragraflar ve linkler hazır olur.
+
+Bunu yapayım mı?
